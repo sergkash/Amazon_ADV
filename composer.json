@@ -1,0 +1,12 @@
+{
+    "name": "Amazon_ADV",
+    "description": "AmazonADV Library",
+    "require": {
+        "php": ">=5.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "AmazonADV\\": "src"
+        }
+    }
+}
